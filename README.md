@@ -1,1 +1,2 @@
 # Online-Voting-System
+Crafted with precision in Java, this application boasts a captivating design utilizing the Swing framework, enhancing the user experience with its sleek interface. At its core, it employs MySQL for robust and efficient transaction management. Developed in the versatile Eclipse Editor and compatible with JDK 8.0, this application is a testament to cutting-edge software development. It's meticulously engineered to optimize human effort, save time, and reduce costs, embodying a blend of technology and efficiency.
